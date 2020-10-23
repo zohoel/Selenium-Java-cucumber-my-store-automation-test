@@ -8,7 +8,7 @@ Test case for smoke test in Cucumber studio:
 <a href="https://studio.cucumber.io/l/folder/1517828/smoke-test" target="_blank">Smoke test</a>
 
 Test cases for regression test in Cucumber studio : 
-<a href="https://studio.cucumber.io/l/folder/1517829/regression-test">Regression test</a>
+<a href="https://github.com/elmahodzic/My_store_SeleniumCucumberJava/blob/master/My_store_regression_test.xlsx">Regression test</a>
 
 ## Prerequisites
 - Java version 1.7
