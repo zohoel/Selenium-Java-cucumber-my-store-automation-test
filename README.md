@@ -1,4 +1,4 @@
-# My-store_SeleniumCucumberJava
+# My Store - Test Automation 
 E2E testing suite for 'My Store' web app
 
 ## General info
