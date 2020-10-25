@@ -11,15 +11,18 @@ Windows:
 - Java version 11.0.8
 - Chrome version 84.0.4147.125
 - Firefox version 81.0.2
+
 MacOS:
 - Java version 1.8.0_171
 - Chrome version 86.0.4240.111
-## Setting up
-After cloning run mvn clean install
+- Firefox version 78.0.2
+
 ## Running test
 To run tests using chrome browser on windows use:
 `mvn test -Dbrowser=chrome -Dos=windows`
+
 Folder 'drivers' also contains geckodriver and chromedriver for MacOS.
+
 To run tests on mac using i.e firefox run:
 `mvn test -Dbrowser=firefox -Dos=mac`
 ## Status
