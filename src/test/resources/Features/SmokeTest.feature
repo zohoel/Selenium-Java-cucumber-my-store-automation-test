@@ -14,7 +14,7 @@ Feature: Feature to test make an order functionality in 'My store' we app
     When Search for a blouse in the search box
     And click on search button
     And user adds product to the cart
-    Then Product is successfully added users shopping cart
+    Then Product is successfully added to users shopping cart
 
     Scenario: Proceed to checkout after checking shopping cart summary
     Given User has added the product to the cart
